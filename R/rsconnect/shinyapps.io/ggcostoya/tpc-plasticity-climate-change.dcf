@@ -1,0 +1,12 @@
+name: tpc-plasticity-climate-change
+title: tpc-plasticity-climate-change
+username: ggcostoya
+account: ggcostoya
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13135066
+bundleId: 9270429
+url: https://ggcostoya.shinyapps.io/tpc-plasticity-climate-change/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
